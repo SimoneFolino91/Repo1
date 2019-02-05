@@ -11,3 +11,4 @@ Git commit -m -- per finalizzare la transazione
  	git merge "branch_da_mergiare"
 
 Per cancellare il Branch git branch -d(-D se non sono appaiati) "branch_da_cancellare"
+git push origin --delete nuovo per cancellare sul remoto
