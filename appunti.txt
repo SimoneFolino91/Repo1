@@ -9,3 +9,5 @@ Git commit -m -- per finalizzare la transazione
 
 	Se poi voglio meriggiare il tutto alla branch originale devo necessariamente tornare sulla branch di destinazione e poi lanciare il programma 
  	git merge "branch_da_mergiare"
+
+Per cancellare il Branch git branch -d(-D se non sono appaiati) "branch_da_cancellare"
