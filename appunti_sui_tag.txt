@@ -1,0 +1,8 @@
+Le tag sono molto importanti perché ci permettono di lasciare traccia dei nostri codici funzionanti in modo da poter tonare indietro senza necessariamente mettere a rischio il codice.
+
+I comandi sono molto intuitivi:
+Git tag v1.0 (per rilasciare la versione) -m "messaggio" (per scrivere il titolo della release)
+Git push origin v1.0 per rilasciare la versione sul repository
+Git push --tags per rilasciare tutte le versioni.
+
+Posso inoltre creare una branch dalla versione con git checkout -b ReleaseVer1 nome_della_tag
