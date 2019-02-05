@@ -4,4 +4,5 @@ Git status -- per controllare lo stato del progetto
 Git commit -m -- per finalizzare la transazione
 
  git remote add origin /pattern/ per potermi collegare ai progetti
- git push -u origin master -- per mandare ciò che scrivo in locale nella repository centrale	
+ git push -u origin master -- per mandare ciò che scrivo in locale nella repository centrale
+	git branch "name" per creare la branch, mentre git checkout "name" per poter aggiungerla	
