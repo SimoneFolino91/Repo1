@@ -1,0 +1,4 @@
+Git init -- per iniziare un progetto
+Git add -- per aggiungere un file al progetto
+Git status -- per controllare lo stato del progetto
+Git commit -m -- per finalizzare la transazione	
